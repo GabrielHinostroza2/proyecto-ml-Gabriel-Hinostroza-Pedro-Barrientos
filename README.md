@@ -1,12 +1,6 @@
 # Proyecto ML Gabriel Hinostroza-Pedro Barrientos
 
 [![Powered by Kedro](https://img.shields.io/badge/powered_by-kedro-ffc900?logo=kedro)](https://kedro.org)
-
-## Overview
-
-This is your new Kedro project, which was generated using `kedro 1.0.0`.
-
-Take a look at the [Kedro documentation](https://docs.kedro.org) to get started.
  # Proyecto ML – Airbnb Seattle (Kedro + Notebooks)
 
 **Curso:** Machine Learning (MLY0100)  
