@@ -5,7 +5,7 @@
 
 **Curso:** Machine Learning (MLY0100)  
 **Nombres** Gabriel Hinostroza - Pedro Barrientos>  
-**Video explicativo:** https://<link-a-tu-video>  ← *pegar aquí tu link*
+**Video explicativo:** https://drive.google.com/file/d/1V6zvXfHEK73-m_376QJ6-oIQ2-MMEdKj/view?usp=drive_link
 
 ---
 
